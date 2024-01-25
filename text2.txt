@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello guys
+=======
+hey buddies all are good
+>>>>>>> 383995887b4d744bdae4a280ffd482da286c2aa8
